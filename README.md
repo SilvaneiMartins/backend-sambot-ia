@@ -6,6 +6,13 @@
 	🚧  Aplicação WEB está em desenvolvimento...  🚧
 </h3>
 
+## Imagens do projeto
+
+<p align="center">
+  <a href="https://imgur.com/7ktsFje"><img src="https://i.imgur.com/7ktsFje.png" title="source: imgur.com" /></a>
+  <br />
+</p>
+
 
 ## Execução do projeto
 
